@@ -26,6 +26,7 @@ export const Hero = () => {
               <span className="text-primary-600 dark:text-primary-400">
                 <TypeAnimation
                   sequence={[
+                    //name
                     'V. Pavan Kalyan',
                     2000,
                     'a Full-Stack Developer',
