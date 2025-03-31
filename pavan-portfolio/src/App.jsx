@@ -11,6 +11,7 @@ import "./App.css";  // Ensure this line exists
 
 function App() {
   return (
+    //className
     <div className="min-h-screen bg-white dark:bg-gray-900 transition-colors duration-200">
       {/* Navbar at the top */}
       <Navbar />
