@@ -15,6 +15,7 @@ export const Hero = () => {
           
           {/* Left Side - Text Content */}
           <motion.div 
+            //mption
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
