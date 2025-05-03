@@ -105,7 +105,7 @@ export const certifications = [
     title: 'Python Programming',
     issuer: 'Infosys',
     date: 'March 2024',
-    link: './assets/python infosys.pdf',
+    link: '../../public/assets/python infosys.pdf',
     logo: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Infosys_logo.svg'
   },
   {
@@ -113,7 +113,7 @@ export const certifications = [
     title: 'C++ Programming',
     issuer: 'IBM edX',
     date: 'June 2024',
-    link: './assets/edx.pdf',
+    link: '../../public/assets/edx.pdf',
     logo: 'https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg'
   },
   {
@@ -121,16 +121,16 @@ export const certifications = [
     title: 'Human Computer Interaction',
     issuer: 'NPTEL',
     date: 'October 2024',
-    link: './assets/Design & Implementation of Human-Computer Interfaces (2).pdf',
+    link: '../../public/assets/Design & Implementation of Human-Computer Interfaces (2).pdf',
     logo: 'https://www.nptel.ac.in/sites/all/themes/qcld_nptel/logo.png'
   },
-    {
-      id: 4,
-      title: 'Frontend Development',
-      issuer: 'Infosys',
-      date: 'March 2025',
-      link: './assets/frontend.pdf',
-      logo: 'https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Logo.svg'
-    }
+  {
+    id: 4,
+    title: 'Frontend Development',
+    issuer: 'Infosys',
+    date: 'March 2025',
+    link: '../../public/assets/frontend.pdf',
+    logo: 'https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Logo.svg'
+  }
 
 ];

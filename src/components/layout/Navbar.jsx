@@ -76,7 +76,7 @@ const Navbar = () => {
             <ThemeToggle />
 
             <Button 
-              href="\assets\Pavan_Kalyan_Resume.pdf" 
+              href="public\assets\Pavan_Kalyan_Resume.pdf" 
               variant="primary" 
               size="sm"
               icon={<Download className="w-4 h-4" />}
@@ -150,7 +150,7 @@ const Navbar = () => {
               </li>
               <li className="pt-2">
                 <Button 
-                  href="\assets\Pavan_Kalyan_Resume.pdf" 
+                  href="public\assets\Pavan_Kalyan_Resume.pdf" 
                   variant="primary" 
                   size="sm" 
                   className="w-full"
