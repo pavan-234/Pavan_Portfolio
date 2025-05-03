@@ -76,7 +76,7 @@ const Navbar = () => {
             <ThemeToggle />
 
             <Button 
-              href="public\assets\Pavan_Kalyan_Resume.pdf" 
+              href="\assets\Pavan_Kalyan_Resume.pdf" 
               variant="primary" 
               size="sm"
               icon={<Download className="w-4 h-4" />}
