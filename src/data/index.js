@@ -105,7 +105,7 @@ export const certifications = [
     title: 'Python Programming',
     issuer: 'Infosys',
     date: 'March 2024',
-    link: '../../public/assets/python infosys.pdf',
+    link: '../../assets/python infosys.pdf',
     logo: 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Infosys_logo.svg'
   },
   {
@@ -121,7 +121,7 @@ export const certifications = [
     title: 'Human Computer Interaction',
     issuer: 'NPTEL',
     date: 'October 2024',
-    link: '../../public/assets/Design & Implementation of Human-Computer Interfaces (2).pdf',
+    link: '../../assets/Design & Implementation of Human-Computer Interfaces (2).pdf',
     logo: 'https://www.nptel.ac.in/sites/all/themes/qcld_nptel/logo.png'
   },
   {
@@ -129,7 +129,7 @@ export const certifications = [
     title: 'Frontend Development',
     issuer: 'Infosys',
     date: 'March 2025',
-    link: '../../public/assets/frontend.pdf',
+    link: '../../assets/frontend.pdf',
     logo: 'https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Logo.svg'
   }
 
