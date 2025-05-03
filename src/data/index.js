@@ -113,7 +113,7 @@ export const certifications = [
     title: 'C++ Programming',
     issuer: 'IBM edX',
     date: 'June 2024',
-    link: '../../public/assets/edx.pdf',
+    link: '../../assets/edx.pdf',
     logo: 'https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg'
   },
   {
