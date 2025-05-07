@@ -131,6 +131,13 @@ export const certifications = [
     date: 'March 2025',
     link: '../../assets/frontend.pdf',
     logo: 'https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Logo.svg'
+  },
+  {
+    id: 5,
+    title: 'Salesforce Developer Virtual Internship',
+    issuer: 'Salesforce',
+    date: 'January 2025',
+    link: '../../assets/Salesforce certificate.pdf',
+    logo: 'https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Logo.svg'
   }
-
 ];
