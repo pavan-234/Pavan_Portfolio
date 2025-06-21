@@ -56,7 +56,7 @@ const About = () => {
             
             <div className="pl-6 space-y-4 text-gray-700 dark:text-gray-300">
               <p>
-                I'm a 3rd year B.Tech Computer Science student at Gayatri Vidya Parishad College Of Engineering with a CGPA of 8.70.
+                I'm a 4th year B.Tech Computer Science student at Gayatri Vidya Parishad College Of Engineering with a CGPA of 8.62.
               </p>
               
               <p>
