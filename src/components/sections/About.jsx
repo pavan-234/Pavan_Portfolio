@@ -34,7 +34,7 @@ const About = () => {
               <div className="bg-indigo-100 dark:bg-indigo-900/30 p-3 rounded-lg mb-3">
                 <Award className="w-6 h-6 text-indigo-600 dark:text-indigo-400" />
               </div>
-              <span className="text-3xl font-bold text-gray-900 dark:text-white">8.70</span>
+              <span className="text-3xl font-bold text-gray-900 dark:text-white">8.62</span>
               <span className="text-gray-600 dark:text-gray-400 text-sm mt-1">CGPA</span>
             </div>
             
